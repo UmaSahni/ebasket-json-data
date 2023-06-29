@@ -1,4 +1,4 @@
-"smartphones": [
+{  "smartphones": [
         {
             "id": 1,
             "title": "iPhone 9",
@@ -1378,4 +1378,5 @@
         "https://i.dummyjson.com/data/products/10/thumbnail.jpeg"
         ]
         }
-        ],
+        ]
+}
