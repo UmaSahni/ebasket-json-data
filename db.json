@@ -1378,5 +1378,106 @@
         "https://i.dummyjson.com/data/products/10/thumbnail.jpeg"
         ]
         }
-        ]
+        ],
+        "products": [
+    {
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS_G21GokEWLhZWJZhFoT8YNqNDZG8c-dgdo14Sh161oIyrzzH_Qsv12DktFrj69OsCux383euaaI66zCAT9jq3dCw8ttFZ2Uj1XgUIp2nyTgkDz8xxAZuwlw&usqp=CAE",
+      "price": 299,
+      "brand": "Adidas",
+      "discount": 2,
+      "title": "Adidas Women Shoes",
+      "gender": "Women",
+      "id": 1
+    },
+    {
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcT6lgHyrqnJCO98Tu6jFglGe94LfDiXIODhwfdeKdBDeSjZz31Yk8iKD0KbSTdxftHf1l0PkLgLYDnLUp2tgg_IIyQPezJILl_qXDmWUty6DW-71kIvFA3DXQ&usqp=CAE",
+      "price": 199,
+      "brand": "Denill",
+      "discount": "5",
+      "title": "Peach Casual-2",
+      "gender": "Women",
+      "id": 2
+    },
+    {
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSPKt3toOB1FTHhS6p11TL_3Ohjq1uwIx4sIbF8T3xvliGii0hpOCx8Re5nR1xG9EmuJWymUKN9jLHRshdOWXf9rHQVirCnhEW--Ir9yygAuauokle-K0mk5g&usqp=CAE",
+      "price": 399,
+      "brand": "ASIAN",
+      "discount": 14,
+      "title": "FireFlyty Men Running",
+      "gender": "Men",
+      "id": 3
+    },
+    {
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSDq63uipyGEciv-uFaKX43pBXrbt61tXBvEGT3fZbj4dZX7fw3LcKlB_dewVbFoKK-7gdXTHRTNDYq0sSyQkkCxWk1dOjXkjRNtw07_8a-Sq6TSIJ9cCkcRA&usqp=CAE",
+      "price": 159,
+      "brand": "Adidas",
+      "discount": 20,
+      "title": "Men Stylish Canvas Casual",
+      "gender": "Men",
+      "id": 4
+    },
+    {
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSAPlgSYUUEbKsM4npFBRHqHQORgR-AuC14T3hoHY6sxM2TI4EryiBFNDXcHewXL_ik0862lNpbODJjAZi3nD1F5-woChJdbFZKUGMBrAC0hPCWP3cQbK2Y7A&usqp=CAE",
+      "price": 399,
+      "brand": "Sneaker",
+      "discount": 14,
+      "title": "Twin Toes Kids Casual",
+      "gender": "Kids",
+      "id": 5
+    },
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTLEQgwqZB8Gvw4gjHXhDoP79LzUqXdT-WwYSh5mF9o68TS7BiAbQWqJQAr1UjzcCDbpRypO2S1kF2byrvYC-jtuYFmzOBqFckUAojBpEc3bXYF-WC9G9rr&usqp=CAE",
+      "price": 499,
+      "brand": "ASIAN",
+      "discount": 14,
+      "title": "Tape Kids Walking Shoes",
+      "gender": "Kids",
+      "id": 6
+    },
+    {
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQnZy4sKf8pDcIthYbcaKXx7u4tH48IJmZonFMjGNwOKHE4gXzIAq3_gY6066ZkIGdm01nRi4jQrQPstob8RG9xkHqHzWI55TeP25IBNH7yIYrJdO_JQaob&usqp=CAE",
+      "price": 299,
+      "brand": "ASIAN",
+      "discount": 10,
+      "title": "Kraasa Casual Sneaker for Men",
+      "gender": "Men",
+      "id": 7
+    },
+    {
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTGByftgSKHMrhtHGRl7bqwqmZ0_v7EVeOcORk5xZIEcwaq5GrrMmPHMHp1KEoE9N5SeSfoRk7znOmffYYCZDS4MBHX1IBvAQM0mTXe3xyYupea_CTMvtqjEw&usqp=CAE",
+      "price": 199,
+      "brand": "ASIAN",
+      "discount": 14,
+      "title": "ASIAN Women Melody-71",
+      "gender": "Women",
+      "id": 8
+    },
+    {
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSeA_rWVgFyU5fAqd4Wd8mEyn_Na4kxBmLLJLcFZlZdqYUMDR0Me56YhLJtQ6jHuvtW6T5KCFF5_jgv1G6t8-IlTTcdgMDkyh7umxz_u8ME5QUxLXIe4jqY&usqp=CAE",
+      "price": 599,
+      "brand": "Sneaker",
+      "discount": 14,
+      "title": "Flavia Women Running Shoes",
+      "gender": "Women",
+      "id": 9
+    },
+    {
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS4i2GVIIwAo45k8Tp1b0VO7tfpm_2PtVEV0345Bh2F1hCg6CPg-VYN0YwycB-m_dvtm-FjMqGUT6qrtaWksBf0OyO1xG4A4zaS5kd1B12U4ha8EV0S4cOJbw&usqp=CAE",
+      "price": "259",
+      "brand": "Sneaker",
+      "discount": "19",
+      "title": "Kids Shoes for Winter",
+      "gender": "Kids",
+      "id": 10
+    },
+    {
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQcBxGDYo-0SAc6Rv0yYYla3f9EmBPlQWI0MMkiJR4JGhPBsbmtiLt9RKtrNPFJOY6sCfcc9PPVIbxRrbLyaa9d21jMNlSQX_pWlqZpNN2SMf7l0umnIrcXKABA1sGJ&usqp=CAE",
+      "price": "1499",
+      "brand": "Adidas",
+      "discount": "12",
+      "title": "Shoes for Men",
+      "gender": "Men",
+      "id": 11
+    }
+  ]
 }
